@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+:root {
+    --color-primary: #3a86ff;
+    --color-secondary: #212121;
+}
